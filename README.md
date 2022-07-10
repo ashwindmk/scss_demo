@@ -97,4 +97,4 @@ npm i
 gulp
 ```
 
-Open the dist/index.html
+Open the dist/index.html in browser.
